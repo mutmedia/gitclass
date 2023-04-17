@@ -1,7 +1,6 @@
 TITLE OF THE PAGE
 ===========
 
-
 hello everyone (almost i guess), this me here, mut
 i am typing, with my fingers, but just text here
 i am excited to try this git thing, lets see how it goes...
@@ -15,9 +14,10 @@ hi moochi
 
 im adding a new line to the end
 
-
-
+woooo
 Woow hi mochi
+
+hello count: 3
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⠔⠊⠩⢅⠀⣉⣉⣲⣴⣉⣉⠀⡠⠍⠉⠲⡄⠀⠀⠀⠀⠀
