@@ -1,8 +1,13 @@
+TITLE OF THE PAGE
+===========
+
+
 hello everyone (almost i guess), this me here, mut
-
 i am typing, with my fingers, but just text here
-
 i am excited to try this git thing, lets see how it goes...
+poetry...
 
 
 good luck you all!!!
+
+im adding a new line to the end
