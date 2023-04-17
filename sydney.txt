@@ -2,7 +2,7 @@ Vyrn: Snore... Diz iz my apple... Snore...
 Lyria: Zzz... Yeah... Yeah... Yeah... Zzz...
 Several months have passed since the cataclysms ended. Reconstruction efforts have concluded, and the islands are as they once were.
 All members of the crew have returned to the Grandcypher, and their grand journey is finally ready to continue.
-That night a huge party of merriment and joy is thrown to mark the occasion.
+~~That night a huge party of merriment and joy is thrown to mark the occasion.~~
 They indulge like children on the last day of school and soon fall asleep without realizing it.
 But the night is still young.
 Is this... some sort of a dream?
@@ -84,3 +84,6 @@ What Makes the Sky Blue
 The End
 
 meowmeowmeow. Love is a mass of contradictions, Cilius.
+
+let me feel the power that can blah blah blah blah blah blah blah blah blah
+uhhhhhhhh....
