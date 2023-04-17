@@ -8,6 +8,7 @@ I think sometimes...yeah
 
 My favorite color is green, but I've experimenting with blues, purples, and black in the past few years.
 
+<<<<<<< Updated upstream
 
 
 
@@ -68,3 +69,6 @@ Never gonna say goodbye
 Never gonna tell a lie and hurt you
 
 
+=======
+peepee
+>>>>>>> Stashed changes
