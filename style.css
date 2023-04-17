@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+a {
+  color: red;
+}
+
+p {
+  background-color: pink;
+}
+
+h1 {
+  background-color: pink;
+}
+
